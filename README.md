@@ -30,9 +30,7 @@ La discográfica planteó una serie de hipótesis sobre qué hace que una canci�
 #### Datos
 
 #### Recursos
-SQL en Big Query
-Python
-Power BI
+SQL en Big Query, Python y Power BI.
 
 #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
