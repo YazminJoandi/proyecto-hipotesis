@@ -26,7 +26,14 @@ La discográfica planteó una serie de hipótesis sobre qué hace que una canci�
 5.Las características de la música influyen en el éxito en términos de cantidad de streams en Spotify.
 
 ## Metodología
+
 #### Datos
+
+#### Recursos
+SQL en Big Query
+Python
+Power BI
+
 #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
 ## Resultados
