@@ -38,7 +38,7 @@ SQL en Big Query, Python y Power BI.
 
 ## Resultados
 
-![]()
+![](https://github.com/YazminJoandi/proyecto-hipotesis/blob/main/hipotesis1.png)
 
 
 ## Conclusiones y recomendaciones
