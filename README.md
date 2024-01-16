@@ -32,6 +32,9 @@ Para más detalle del desarrollo del proyecto da click [aquí](https://colab.res
 
 #### Datos
 Dataset de Spotify con información sobre las canciones más escuchadas en 2023.
+* dfa
+* da
+* dfa
 
 #### Recursos
 SQL (Big Query), Python (Google Colab) y Power BI.
