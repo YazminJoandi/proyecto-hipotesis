@@ -28,11 +28,13 @@ La discográfica planteó una serie de hipótesis sobre qué hace que una canci�
 
 ## Metodología
 
+[¡holla!](https://colab.research.google.com/drive/167ST72UdpPPgN4-55t6nm5Ds1Ib7nKEr?usp=sharing)
+
 #### Datos
 Dataset de Spotify con información sobre las canciones más escuchadas en 2023.
 
 #### Recursos
-SQL en Big Query, Python y Power BI.
+SQL (Big Query), Python (Google Colab) y Power BI.
 
 #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
