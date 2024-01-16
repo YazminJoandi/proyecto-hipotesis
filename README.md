@@ -37,7 +37,8 @@ SQL en Big Query, Python y Power BI.
 #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
 ## Resultados
-Hipóteiss
+
+![]()
 
 
 ## Conclusiones y recomendaciones
