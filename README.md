@@ -18,7 +18,7 @@ En un mundo en el que la industria musical es extremadamente competitiva y está
 
 En este contexto, una discográfica se enfrenta al emocionante desafío de lanzar un nuevo artista en el escenario musical global. Cuenta con un extenso dataset de Spotify.
 
-La discográfica planteó una serie de hipótesis sobre qué hace que una canción sea más escuchada. Estas hipótesis incluyen:
+La discográfica planteó las siguientes 5 hipótesis acerca de lo podría hacer que una canción sea más escuchada. 
 
 * Las canciones con un mayor BPM (Beats Por Minuto) tienen más éxito en términos de cantidad de streams en Spotify.
 * Las canciones más populares en el ranking de Spotify también tienen un comportamiento similar en otras plataformas como Deezer.
@@ -42,17 +42,29 @@ SQL (Big Query), Python (Google Colab) y Power BI.
 ### Hipótesis 1: 
 ![](https://github.com/YazminJoandi/proyecto-hipotesis/blob/main/hipotesis1.png)
 
+REFUTADA
+Correlación negativa cercana a cero. 
+
 ### Hipótesis 2:
 
 ![](https://github.com/YazminJoandi/proyecto-hipotesis/blob/main/hipotesis2.png)
+
+CONFIRMADA
+Correlacioń positiva de 0.60
 
 ### Hipótesis 3:
 
 ![](https://github.com/YazminJoandi/proyecto-hipotesis/blob/main/hipotesis3.png)
 
+CONFIRMADA
+Correlación de 0.78
+
 ### Hipótesis 4:
 
 ![](https://github.com/YazminJoandi/proyecto-hipotesis/blob/main/hipotesis4.png)
+
+RECHAZADA
+Correlación -0.13
 
 ### Hipótesis 5:
 
