@@ -20,11 +20,11 @@ En este contexto, una discográfica se enfrenta al emocionante desafío de lanza
 
 La discográfica planteó una serie de hipótesis sobre qué hace que una canción sea más escuchada. Estas hipótesis incluyen:
 
-1.Las canciones con un mayor BPM (Beats Por Minuto) tienen más éxito en términos de cantidad de streams en Spotify.
-2.Las canciones más populares en el ranking de Spotify también tienen un comportamiento similar en otras plataformas como Deezer.
-3.La presencia de una canción en un mayor número de playlists se relaciona con un mayor número de streams.
-4.Los artistas con un mayor número de canciones en Spotify tienen más streams totales.
-5.Las características de la música influyen en el éxito en términos de cantidad de streams en Spotify.
+* Las canciones con un mayor BPM (Beats Por Minuto) tienen más éxito en términos de cantidad de streams en Spotify.
+* Las canciones más populares en el ranking de Spotify también tienen un comportamiento similar en otras plataformas como Deezer.
+* La presencia de una canción en un mayor número de playlists se relaciona con un mayor número de streams.
+* Los artistas con un mayor número de canciones en Spotify tienen más streams totales.
+* Las características de la música influyen en el éxito en términos de cantidad de streams en Spotify.
 
 ## Metodología
 
@@ -32,9 +32,6 @@ Para más detalle del desarrollo del proyecto da click [aquí](https://colab.res
 
 #### Datos
 Dataset de Spotify con información sobre las canciones más escuchadas en 2023.
-* dfa
-* da
-* dfa
 
 #### Recursos
 SQL (Big Query), Python (Google Colab) y Power BI.
