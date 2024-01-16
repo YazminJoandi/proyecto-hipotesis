@@ -39,10 +39,20 @@ SQL (Big Query), Python (Google Colab) y Power BI.
 #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
 ## Resultados
-
+Hipótesis 1: 
 ![](https://github.com/YazminJoandi/proyecto-hipotesis/blob/main/hipotesis1.png)
 
+Hipótesis 2:
+![]()
 
+Hipótesis 3:
+![]()
+
+Hipótesis 4:
+![]()
+
+Hipótesis 5:
+![]()
 ## Conclusiones y recomendaciones
 
 Para más detalles, da click [aquí]()
