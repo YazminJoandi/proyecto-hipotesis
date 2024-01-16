@@ -11,11 +11,12 @@ Proyecto desarrollado en BigQuery y presentado en Power BI acerca de un dataset 
 5. [Conclusionesy recomendaciones]()
 
 ## Objetivo 
+Proporcionar recomendaciones estratégicas basadas en los hallazgos resultantes de validar hipótesis. El objetivo es que la discográfica y el nuevo artista puedan tomar decisiones informadas que aumenten sus posibilidades de conseguir el “éxito”.
 
 ## Introducción
 En un mundo en el que la industria musical es extremadamente competitiva y está en permanente evolución, la capacidad de tomar decisiones basadas en datos se ha convertido en un activo invaluable.
 
-En este contexto, una discográfica se enfrenta al emocionante desafío de lanzar un nuevo artista en el escenario musical global. Afortunadamente, cuenta con una herramienta poderosa en su arsenal: un extenso dataset de Spotify con información sobre las canciones más escuchadas en 2023.
+En este contexto, una discográfica se enfrenta al emocionante desafío de lanzar un nuevo artista en el escenario musical global. Cuenta con un extenso dataset de Spotify.
 
 La discográfica planteó una serie de hipótesis sobre qué hace que una canción sea más escuchada. Estas hipótesis incluyen:
 
@@ -28,6 +29,7 @@ La discográfica planteó una serie de hipótesis sobre qué hace que una canci�
 ## Metodología
 
 #### Datos
+Dataset de Spotify con información sobre las canciones más escuchadas en 2023.
 
 #### Recursos
 SQL en Big Query, Python y Power BI.
@@ -35,6 +37,8 @@ SQL en Big Query, Python y Power BI.
 #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
 ## Resultados
+Hipóteiss
+
 
 ## Conclusiones y recomendaciones
 
