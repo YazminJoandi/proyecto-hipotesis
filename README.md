@@ -74,3 +74,16 @@ Correlación -0.13
 
 Para más detalles, da click [aquí]()
 
+## Tecnologías
+
+
+![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Library-Pandas-green?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue?logo=plotly)
+![Seaborn](https://img.shields.io/badge/Library-Seaborn-blue?logo=seaborn)
+![Scikit-learn](https://img.shields.io/badge/Library-Scikit_Learn-yellow?logo=scikit-learn)
+![Power BI](https://img.shields.io/badge/BI_Tool-Power_BI-yellow?logo=power-bi)
+![Git](https://img.shields.io/badge/Version_Control-Git-red?logo=git)
+![Google Drive](https://img.shields.io/badge/Tool-Google_Drive-blue?logo=google-drive)
+![Slack](https://img.shields.io/badge/Chat-Slack-purple?logo=slack)
+
